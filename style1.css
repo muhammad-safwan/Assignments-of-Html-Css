@@ -1,0 +1,17 @@
+th {width: 44; height: 44;}
+.purple {background-color: purple;}
+.green{background-color: green;}
+.orange{background-color: orangered}
+.rebeccapurple{background-color: rebeccapurple}
+.pink{background-color: pink}
+.brown{background-color: saddlebrown}
+.blue{background-color: slateblue}
+.yellow{background-color: yellow}
+.darkyellow{background-color: darkgoldenrod}
+
+p.three {width: 150px; 
+border: 3px dotted #0088dd;
+padding: 10px;
+margin	: 10px auto 10px auto ;
+}
+p.two {border-style: solid;}
